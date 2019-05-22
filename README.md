@@ -3,7 +3,7 @@
 Objectives:
 
 1.
-Develop a software solution for computing S(f,g), as defined in the .pdf file, for two time nonnegative series f,g on [0,n).
+Develop a software solution for computing S(f,g), as defined in the .pdf file, for two  nonnegative time-series f,g on [0,n)
 Use Theorem 1.3, 1.7, 3.7 to test and QA the solution.
 
 Nice to have:
