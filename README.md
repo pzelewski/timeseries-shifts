@@ -13,7 +13,7 @@ Explore replacing the recursion from the FFT method (Corollary 3.13) with a more
 Confirm numerically  Theorem 4.4.
 
 3.
-Use Theorem 4.4 to find the lenght l of fundamental period.
+Use Theorem 4.4 to find the lenght l of the fundamental period.
 
 
 
